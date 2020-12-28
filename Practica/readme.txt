@@ -1,0 +1,2 @@
+- Se incluyen scripts para poder ejecutar los diversos algoritmos con distinto número de elementos. Se deben ejecutar desde la carpeta raíz. Por ejemplo: scripts/heap.csh
+- Las imágenes estan en la carpeta res
